@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "926818918950",
+    "firebase_url": "https://trackapp-206705.firebaseio.com",
+    "project_id": "trackapp-206705",
+    "storage_bucket": "trackapp-206705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926818918950:android:ff76a69decdf5207",
+        "android_client_info": {
+          "package_name": "com.example.vit17.mapdirectionwithdirectionsapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926818918950-5amhtblar8ooqt6qerj8m1t06mjq0vun.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "926818918950-5amhtblar8ooqt6qerj8m1t06mjq0vun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHr4mZny_uBFUI4ve92FaMfGmawuPUEAE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
